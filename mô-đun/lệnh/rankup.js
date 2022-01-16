@@ -79,7 +79,7 @@ module.exports.languages = {
 		"off": "tắt",
 		"on": "bật",
 		"successText": "thành công thông báo rankup!",
-		"levelup": "Sự chu che của {name} đã đạt tới đỉnh kao level {level}"
+		"levelup": "Tốc độ cào bàn phím của {name} đã đạt tới level {level}, vỗ tay vỗ tay👏"
 	},
 	"en": {
 		"on": "on",
