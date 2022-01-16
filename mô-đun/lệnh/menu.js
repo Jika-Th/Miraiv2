@@ -8,16 +8,16 @@ module.exports.config = {
 	usages: "[Tên module]",
 	cooldowns: 5,
 	envConfig: {
-		autoUnsend: true,
-		delayUnsend: 60
+		autoUnsend: false,
+		delayUnsend: 0
 	}
 };
 
 module.exports.languages = {
 	"vi": {
 		"moduleInfo": "『%1』\n『%2』\n\n»Cách sử dụng:『%3』\nThuộc nhóm: 『%4』\n»Thời gian chờ: 『%5』 giây(s)\n»Quyền hạn: 『%6』\n\n»Module code by 『%7』",
-		"helpAll": '📌Hiện tại đang có 『%1』 lệnh có thể sử dụng trên bot này\n『Sử dụng: %2help tên lệnh』\nđể xem chi tiết cách sử dụng"',
-		"helpList": '《BOT MANK》\n\n%2\n»Hiện tại đang có %3 lệnh có thể sử dụng trên bot này«\nHãy reply(phản hồi) STT\n🤖Bot được điều hành bởi Nguyễn Mank\n📩Mọi thắc mắc liên hệ Admin Bot\n📱Fb : fb.me/MankNe.Official \n📱Zalo : 0368830277\n〚Dùng %4menu all để xem tất cả các lệnh〛\nChúc bạn sử dụng bot vui vẻ❤',
+		"helpAll": '👻Hiện tại đang có 『%1』 lệnh có thể sử dụng trên bot này\n『Sử dụng: %2help + tên lệnh』\nđể xem chi tiết cách sử dụng"',
+		"helpList": '《BOT MANK》\n\n%2\n»Hiện tại đang có %3 lệnh có thể sử dụng trên bot này«\nHãy reply(phản hồi) STT.〚Dùng %4menu all để xem tất cả các lệnh〛\nChúc bạn sử dụng bot vui vẻ❤',
 		"helpeply": '『%1』\nSau đây là nhóm lệnh của\n『%2』\n\n『%3』\n»Hãy reply(phản hồi) số thứ tự để xem chi tiết cách sử dụng!«',
 		"user": "Người dùng",
         "adminGroup": "Quản trị viên nhóm",
