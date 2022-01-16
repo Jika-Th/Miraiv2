@@ -10,10 +10,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Bot Mess",
-    "PREFIX": "/",
+    "BOTNAME": "𝑩𝒐𝒕 𝑮𝒂̀",
+    "PREFIX": "=",
     "ADMINBOT": [
-        " ",
+        "100056335523144",
         " "
     ],
     "DATABASE": {
@@ -152,7 +152,7 @@
         "enable": true
     },
     "menu2": {
-        "autoUnsend": true,
+        "autoUnsend": false,
         "delayUnsend": 60
     }
 }
